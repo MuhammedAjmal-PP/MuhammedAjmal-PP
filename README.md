@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Ajmal !
 
-<!--
-**MuhammedAjmal-PP/MuhammedAjmal-PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Python Developer** who loves building cool things with code.  
+My journey in tech blends creativity, logic, and curiosity—whether I'm solving problems or crafting web apps.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C, Java, HTML, CSS
+- **Frameworks:** Django
+- **Web:** HTML5, CSS3
+
+## 🛠️ What I Do
+
+- Build robust backend systems with Python and Django
+- Create clean, responsive web interfaces with HTML & CSS
+- Explore new technologies and push my coding boundaries every day
+
+## 📫 Let's Connect
+
+Feel free to reach out or explore my work here on GitHub!
+
+---
+
+_Thanks for stopping by! More updates coming soon…_
