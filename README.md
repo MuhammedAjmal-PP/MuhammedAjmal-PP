@@ -7,7 +7,7 @@ My journey in tech blends creativity, logic, and curiosity—whether I'm solving
 
 - **Languages:** Python, C, Java, HTML, CSS
 - **Frameworks:** Django
-- **Web:** HTML5, CSS3
+- **Web:** HTML5, CSS3, Bootstrap5
 
 ## 🛠️ What I Do
 
